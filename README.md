@@ -1,7 +1,7 @@
-👋 Hi, I'm @naidong662
+*👋 Hi, I'm @naidong662
 
-👀 I’m primarily interested in ML/DL/RL theories and how they can be applied to solve real-world problems to benefit society.
-👀 I’m also interested in:
+*👀 I’m primarily interested in ML/DL/RL theories and how they can be applied to solve real-world problems to benefit society.
+*👀 I’m also interested in:
         - IoT / embbeded systems
         - Computer graphics / vision
         - Games development
