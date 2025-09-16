@@ -8,8 +8,8 @@
         - Robotic
         - GPU parallel computing
         - Electronics
-🌱 I’m currently learning how to apply ML to sensor time series for HAR 
-📫 naidong662@gmail.com
+* 🌱 I’m currently learning how to apply ML to sensor time series for HAR 
+- 📫 naidong662@gmail.com
 <!--
 **naidong662/naidong662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
